@@ -46,21 +46,21 @@
       {
         "title": "Semantische + Stichwort-Suche",
         "description": "Zwei Suchverfahren kombiniert: Der Assistent findet exakte Begriffe und versteht Umschreibungen, Synonyme und typische Formulierungen wie „Frei nehmen“ oder „Urlaubsantrag“.",
-        "imageUrl": "images/feature-semantic.svg"
+        "imageUrl": "images/klassisch-vector-md.png"
       },
       {
         "title": "Eigene Dokumente hochladen",
-        "description": "PDFs, Richtlinien, Handbücher und Intranet-Seiten lassen sich einfach einpflegen – ohne manuelle FAQ-Pflege in Tabellen.",
-        "imageUrl": "images/feature-docs.svg"
+        "description": "TXT, MD (auto-indexed), PDF, DOCX",
+        "imageUrl": "images/upload.png"
       },
       {
         "title": "Visuelle Datenübersicht",
         "description": "Sie sehen auf einen Blick, welches Wissen im System ist und welche Fragen besonders häufig gestellt werden.",
-        "imageUrl": "images/feature-analytics.svg"
+        "imageUrl": "images/overview.png"
       },
       {
-        "title": "Antworten mit Quellenangabe",
-        "description": "Jede Antwort verweist auf das Ursprungsdokument. Vertrauen entsteht durch Nachvollziehbarkeit statt bloßen Behauptungen.",
+        "title": "Detailansicht des Dokuments",
+        "description": "Die Übersicht verweist auf das Ursprungsdokument.",
         "imageUrl": "images/faq-source.svg"
       }
     ]
@@ -81,7 +81,7 @@
       {
         "title": "Schnelle Einführung",
         "description": "Setup durch uns, produktiv in wenigen Tagen. Kein sechsmonatiges IT-Projekt – sondern ein Tool, das nächste Woche läuft.",
-        "imageUrl": "images/user1.png"
+        "imageUrl": "images/user32.jpg"
       }
     ]
   },

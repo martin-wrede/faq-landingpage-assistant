@@ -5,7 +5,7 @@ import contentEn from './data/content-en.json';
 
 const Context = React.createContext();
 
-const LANGUAGE_CONFIG = 'de'; // Options: 'de', 'en', 'both'
+const LANGUAGE_CONFIG = 'both'; // Options: 'de', 'en', 'both'
 
 function ContextProvider({ children }) {
   const [language, setLanguage] = useState(() => {

@@ -2,149 +2,159 @@
   "header": {
     "logoUrl": "images/logo.svg",
     "cta": {
-      "text": "Select Package",
+      "text": "Get started",
       "link": "#cta"
     }
   },
   "hero": {
-    "headline": "Boost Your Orders with AI-Optimized Food Photos.",
-    "subheadline": "We transform your existing food photos into professionally retouched, mouth-watering images that increase clicks and orders.",
+    "headline": "Your people ask. Your documents answer.",
+    "subheadline": "The FAQ Assistant answers repetitive HR and People Ops questions automatically, using your own documents. Every answer cites its source. Run it in the cloud, or entirely on your own server.",
     "cta1": {
-      "text": "Select Package",
+      "text": "Get started",
       "link": "#cta"
     },
     "cta2": {
-      "text": "View Examples",
-      "link": "#examples"
+      "text": "See it in action",
+      "link": "#faq"
     },
-    "imageUrl": "images/hero.jpg"
+    "imageUrl": "images/hero-hr-team.png"
   },
   "credentials": {
-    "title": "What Our Customers Say",
+    "title": "Why teams use it",
     "logos": [
       {
-        "name": "Mario L.",
-        "url": "images/user-profile-1.jpg",
-        "quote": "Our online orders increased by 27% in the first month. The new photos look significantly more professional."
+        "name": "Fewer repeat questions",
+        "url": "images/user-profile-1.png",
+        "quote": "People find answers themselves, around the clock, without HR sitting in the middle of every request."
       },
       {
-        "name": "Sarah K.",
-        "url": "images/user-profile-2.jpg",
-        "quote": "We used the images for UberEats and immediately got more clicks. Fast service and top quality."
+        "name": "Answers from your sources",
+        "url": "images/user-profile-2.png",
+        "quote": "No invented answers. Every response comes from your policies, handbooks and agreements, and names the document it came from."
       },
       {
-        "name": "David R.",
-        "url": "images/user-profile-3.jpg",
-        "quote": "Unbeatable for the price. The AI optimization saves us a photographer every time."
+        "name": "You stay in control",
+        "url": "images/user-profile-3.png",
+        "quote": "See what people actually ask, and spot exactly where your documentation has gaps."
       }
     ]
   },
   "features": {
-    "title": "What We Do for Restaurants",
-    "beforeAfterLabel": "Before / After",
+    "title": "What's inside.",
+    "beforeAfterLabel": "How the assistant works",
     "items": [
       {
-        "title": "AI Retouching",
-        "description": "We optimize contrast, colors, presentation, and sharpness – making every dish look professionally photographed.",
-        "imageUrl": "images/feature1.jpg"
+        "title": "Exact matches and semantic search",
+        "description": "Two search methods in one query. Word-for-word matches rank first and are marked as exact. Below them, the assistant understands paraphrases and synonyms, so \"time off\" finds your vacation policy even when those words never appear.",
+        "imageUrl": "images/klassisch-vector-md.png"
       },
       {
-        "title": "Background Cleanup",
-        "description": "Cluttered backgrounds, shadows, or distracting elements are removed as needed. Important elements are added.",
-        "imageUrl": "images/feature2.jpg"
+        "title": "Upload your own documents",
+        "description": "Drag in whole folders at once. TXT and Markdown are indexed instantly, PDF and DOCX are supported too. New documents become searchable in seconds.",
+        "imageUrl": "images/upload.png"
       },
       {
-        "title": "Unified Look",
-        "description": "A consistent style makes your restaurant immediately more professional and trustworthy.",
-        "imageUrl": "images/feature4.jpg"
+        "title": "Visual knowledge map",
+        "description": "See at a glance what knowledge lives in the system and how documents relate to each other. Duplicates and orphaned content stand out immediately.",
+        "imageUrl": "images/overview.png"
       },
       {
-        "title": "Social-Media Ready",
-        "description": "Perfectly cropped for Instagram, Facebook & delivery services like UberEats, DoorDash, and Wolt.",
-        "imageUrl": "images/feature5.jpg"
+        "title": "Every answer cites its source",
+        "description": "Each answer shows the passages it was built from, traceable back to the original document.",
+        "imageUrl": "images/ergebnis-md.png"
       }
     ]
   },
   "users": {
-    "title": "Who is this Product For?",
+    "title": "Built for HR and People Ops teams at growing companies.",
     "items": [
       {
-        "title": "For Restaurants",
-        "description": "More orders, better presentation, and a professional appearance – perfect for your menu.",
-        "imageUrl": "images/user3.jpg"
+        "title": "A good fit if:",
+        "description": "You have 20–500 employees and HR is a handful of people. Your knowledge is scattered across PDFs and intranet pages. The same questions arrive every day by email, Slack, or someone stopping by your desk.",
+        "imageUrl": "images/company-illustration-300.jpg"
       },
       {
-        "title": "For Catering & Delivery Services",
-        "description": "Optimized food photos increase the click-through rate on your dishes – and thus your revenue.",
-        "imageUrl": "images/user2.jpg"
+        "title": "Probably not for you if:",
+        "description": "You need a full HR suite with payroll and applicant tracking. The FAQ Assistant does one thing and does it well: answer questions.",
+        "imageUrl": "images/faq-source.svg"
       },
       {
-        "title": "For Cafés & Bistros",
-        "description": "Modern, bright photos for social media and digital menus.",
-        "imageUrl": "images/user1.jpg"
+        "title": "Live in days",
+        "description": "We handle the setup. Not a six-month IT project — a tool that runs next week.",
+        "imageUrl": "images/user32.jpg"
       }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "Questions you're probably asking",
     "items": [
       {
-        "question": "How does it work?",
-        "answer": "You simply send us your existing food photos. We optimize them with state-of-the-art AI and send the finished images back to you."
+        "question": "Where does our data live?",
+        "answer": "That's your call. On the Cloud plan your assistant runs on shared infrastructure, with your documents strictly separated from other customers. On the Private plan you get your own isolated instance — documents and the language model both run on your server, with no external AI provider involved. Either way, your data is never used to train anyone's models.",
+        "imageUrl": "images/faq-source.svg"
       },
       {
-        "question": "Do I need professional camera photos?",
-        "answer": "No! We can significantly improve even smartphone photos."
+        "question": "Does it make things up?",
+        "answer": "The assistant answers only from your documents and shows the source behind every statement. When it can't find a match, it says so instead of guessing."
       },
       {
-        "question": "How long does the processing take?",
-        "answer": "Usually 24–48 hours, depending on the package size."
+        "question": "How much work is the setup?",
+        "answer": "You provide the documents, we handle the setup. Typical timeline: under two weeks to production use."
       },
       {
-        "question": "Can I see examples before buying?",
-        "answer": "Yes. You get 2 free test optimizations before you decide."
+        "question": "What if it isn't a fit?",
+        "answer": "There's a three-month minimum term — in our experience that's how long an assistant needs to settle into daily use and show measurable relief. After that, cancel any month. No annual contract, no fine print."
       },
       {
-        "question": "What file formats do you accept?",
-        "answer": "JPG, PNG"
-      },
-      {
-        "question": "Can I book more images later?",
-        "answer": "Yes – you can order additional packages at any time."
+        "question": "Can we switch or expand later?",
+        "answer": "Yes. Add documents, areas and users whenever you like. Moving from Cloud to your own dedicated instance is possible too, without starting over."
       }
     ]
   },
   "ctaSection": {
-    "headline": "Christmas Special until December 22nd:",
+    "headline": "Two ways to run your assistant.",
+    "subtext": "Transparent pricing, three-month minimum, then cancel any month. No hidden costs.",
     "pricingItems": [
       {
-        "title": "⭐ Starter Package",
+        "title": "Cloud",
         "features": [
-          "→ 2 free test images (no credit card required)",
-          "5 optimized photos",
-          ""
+          "For teams who want to start fast",
+          "One-time setup: $790",
+          "Monthly: $149 / month",
+          "Answers in seconds",
+          "Up to 100 documents",
+          "Unlimited users",
+          "Separated data storage per customer",
+          "Pay annually and get 2 months free"
         ],
-        "price": "142,80 €",
-        "priceInformation": "(incl. 19% VAT)",
-        "buttonText": "Select Package",
-        "buttonLink": "https://upload-images-form.pages.dev/?package=test"
+        "price": "$149",
+        "priceInformation": "per month",
+        "buttonText": "Start with Cloud",
+        "buttonLink": "#"
       },
       {
-        "title": "⭐ Standard Package",
+        "title": "Private",
         "features": [
-          "→ 2 free test images (no credit card required)",
-          "10 optimized photos",
-          ""
+          "For companies with strict data requirements",
+          "One-time setup: $1,900",
+          "Monthly: $349 / month",
+          "Your own isolated instance",
+          "Language model runs on your server — no external AI provider",
+          "Up to 500 documents",
+          "Unlimited users",
+          "Can run on your own hardware",
+          "Usage analytics included",
+          "Pay annually and get 2 months free"
         ],
-        "price": "238 €",
-        "priceInformation": "(incl. 19% VAT)",
-        "buttonText": "Select Package",
-        "buttonLink": "https://upload-images-form.pages.dev/?package=test"
+        "price": "$349",
+        "priceInformation": "per month",
+        "buttonText": "Start with Private",
+        "buttonLink": "#"
       }
     ]
   },
   "footer": {
-    "copyright": "© 2024 FoodPhotoAI. All rights reserved.",
+    "copyright": "© 2026 FAQ Assistant. All rights reserved.",
     "links": [
       {
         "text": "Privacy Policy",
@@ -155,7 +165,7 @@
         "link": "#"
       },
       {
-        "text": "Contact Support",
+        "text": "Contact",
         "link": "#"
       }
     ]

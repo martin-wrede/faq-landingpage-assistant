@@ -8,7 +8,7 @@
   },
   "hero": {
     "headline": "Ihre Mitarbeitenden fragen. Ihr Wissen antwortet.",
-    "subheadline": "Der FAQ-Assistent beantwortet wiederkehrende Fragen aus HR und People Ops automatisch – auf Basis Ihrer eigenen Dokumente. Semantische Suche statt Stichwort-Raten. Einsatzbereit in Tagen, nicht Monaten.",
+    "subheadline": "Der FAQ-Assistent beantwortet wiederkehrende Fragen aus HR und People Ops automatisch – auf Basis Ihrer eigenen Dokumente. Jede Antwort mit Quelle. Wahlweise in der Cloud oder vollständig auf Ihrem eigenen Server.",
     "cta1": {
       "text": "Jetzt bestellen",
       "link": "#cta"
@@ -23,17 +23,17 @@
     "title": "Warum Teams es einsetzen",
     "logos": [
       {
-        "name": "Bis zu 70 % weniger Routineanfragen",
+        "name": "Weniger Routineanfragen",
         "url": "images/user-profile-1.png",
         "quote": "Mitarbeitende finden Antworten selbst und rund um die Uhr – ohne HR in der Leitungs-Schleife zu halten."
       },
       {
         "name": "Antworten aus Ihren Quellen",
         "url": "images/user-profile-2.png",
-        "quote": "Keine erfundenen Auskünfte: Jede Antwort basiert auf Ihren Richtlinien, Handbüchern und Vereinbarungen."
+        "quote": "Keine erfundenen Auskünfte: Jede Antwort basiert auf Ihren Richtlinien, Handbüchern und Vereinbarungen – und nennt das Dokument dazu."
       },
       {
-        "name": "HR behält die Kontrolle",
+        "name": "Sie behalten die Kontrolle",
         "url": "images/user-profile-3.png",
         "quote": "Sie sehen, was gefragt wird, und erkennen genau, wo Ihre Dokumentation Lücken hat."
       }
@@ -44,23 +44,23 @@
     "beforeAfterLabel": "So arbeitet der Assistent",
     "items": [
       {
-        "title": "Semantische + Stichwort-Suche",
-        "description": "Zwei Suchverfahren kombiniert: Der Assistent findet exakte Begriffe und versteht Umschreibungen, Synonyme und typische Formulierungen wie „Frei nehmen“ oder „Urlaubsantrag“.",
+        "title": "Exakte Treffer und semantische Suche",
+        "description": "Zwei Suchverfahren in einer Abfrage: Wortgenaue Treffer stehen oben und sind als solche markiert. Darunter findet der Assistent Umschreibungen und Synonyme – „Frei nehmen“ führt zum Urlaubsantrag, auch wenn das Wort nirgends steht.",
         "imageUrl": "images/klassisch-vector-md.png"
       },
       {
         "title": "Eigene Dokumente hochladen",
-        "description": "TXT, MD (auto-indexed), PDF, DOCX",
+        "description": "Ganze Ordner auf einmal per Drag-and-drop. TXT und Markdown werden sofort indexiert, PDF und DOCX ebenfalls unterstützt. Neue Dokumente sind in Sekunden durchsuchbar.",
         "imageUrl": "images/upload.png"
       },
       {
-        "title": "Visuelle Datenübersicht",
-        "description": "Sie sehen auf einen Blick, welches Wissen im System ist und welche Fragen besonders häufig gestellt werden.",
+        "title": "Visuelle Wissenslandkarte",
+        "description": "Sie sehen auf einen Blick, welches Wissen im System liegt und wie die Dokumente inhaltlich zusammenhängen. Doppelte oder verwaiste Inhalte fallen sofort auf.",
         "imageUrl": "images/overview.png"
       },
       {
-        "title": "Detailansicht des Dokuments",
-        "description": "Die Übersicht verweist auf das Ursprungsdokument.",
+        "title": "Jede Antwort mit Quelle",
+        "description": "Der Assistent zeigt zu jeder Antwort die Textstellen, auf denen sie beruht – nachvollziehbar bis ins Ursprungsdokument.",
         "imageUrl": "images/ergebnis-md.png"
       }
     ]
@@ -70,12 +70,12 @@
     "items": [
       {
         "title": "Ideal für Sie, wenn:",
-        "description": "Ihr Unternehmen 20–500 Mitarbeitende hat und HR aus einer Handvoll Menschen besteht. Ihr Wissen liegt in PDFs und Intranet-Seiten verstreut. Dieselben Fragen kommen täglich per E-Mail, Teams oder Zuruf.",
+        "description": "Ihr Unternehmen hat 20–500 Mitarbeitende und HR besteht aus einer Handvoll Menschen. Ihr Wissen liegt verstreut in PDFs und Intranet-Seiten. Dieselben Fragen kommen täglich per E-Mail, Teams oder Zuruf.",
         "imageUrl": "images/company-illustration-300.jpg"
       },
       {
         "title": "Eher nichts für Sie, wenn:",
-        "description": "Sie eine vollständige HR-Suite mit Lohnabrechnung und Bewerbermanagement brauchen. Der FAQ-Assistent macht eine Sache und die richtig: Fragen beantworten.",
+        "description": "Sie brauchen eine vollständige HR-Suite mit Lohnabrechnung und Bewerbermanagement. Der FAQ-Assistent macht eine Sache und die richtig: Fragen beantworten.",
         "imageUrl": "images/faq-source.svg"
       },
       {
@@ -89,59 +89,66 @@
     "title": "Einwand-Behandlung",
     "items": [
       {
-        "question": "Was ist mit unseren Daten?",
-        "answer": "Ihre Dokumente werden ausschließlich für Ihren Assistenten genutzt – kein Training fremder Modelle, Hosting in der EU, DSGVO-konform. Auf Wunsch stellen wir eine AV-Vereinbarung bereit.",
+        "question": "Wo liegen unsere Daten?",
+        "answer": "Das entscheiden Sie. In der Cloud-Variante läuft Ihr Assistent auf geteilter Infrastruktur, Ihre Dokumente bleiben strikt von anderen Kunden getrennt. In der Privat-Variante erhalten Sie eine eigene Instanz – Dokumente und Sprachmodell laufen auf Ihrem Server, ohne externen KI-Anbieter. In beiden Fällen: kein Training fremder Modelle.",
         "imageUrl": "images/faq-source.svg"
       },
       {
         "question": "Halluziniert das System?",
-        "answer": "Der Assistent antwortet auf Basis Ihrer Dokumente und verlinkt die Quelle. Findet er nichts, sagt er das – statt zu raten."
+        "answer": "Der Assistent antwortet ausschließlich auf Basis Ihrer Dokumente und zeigt zu jeder Aussage die Quelle. Findet er nichts Passendes, sagt er das – statt zu raten."
       },
       {
-        "question": "Wie viel Aufwand ist die Einführung?",
+        "question": "Wie aufwendig ist die Einführung?",
         "answer": "Sie liefern die Dokumente, wir übernehmen die Einrichtung. Typischer Zeitrahmen: unter zwei Wochen bis zum produktiven Einsatz."
       },
       {
         "question": "Was, wenn es nicht passt?",
-        "answer": "Monatlich kündbar. Kein Jahresvertrag, kein Kleingedrucktes."
+        "answer": "Die Mindestlaufzeit beträgt drei Monate – erfahrungsgemäß die Zeit, die ein Assistent braucht, um im Alltag anzukommen und messbare Entlastung zu zeigen. Danach monatlich kündbar. Kein Jahresvertrag, kein Kleingedrucktes."
       },
       {
-        "question": "Kann ich den FAQ-Assistent auch später erweitern?",
-        "answer": "Ja. Sie können neue Dokumente, Bereiche und Nutzer jederzeit ergänzen – ohne das System neu aufzusetzen."
+        "question": "Können wir später wechseln oder erweitern?",
+        "answer": "Ja. Neue Dokumente, Bereiche und Nutzer lassen sich jederzeit ergänzen. Auch der Wechsel von Cloud auf eine eigene Instanz ist möglich, ohne neu aufzusetzen."
       }
     ]
   },
   "ctaSection": {
-    "headline": "Transparent kalkuliert. Keine versteckten Kosten.",
-    "subtext": "Monatlich kündbar. Keine Laufzeitbindung.",
+    "headline": "Zwei Wege zum eigenen Assistenten.",
+    "subtext": "Transparent kalkuliert. Drei Monate Mindestlaufzeit, danach monatlich kündbar. Keine versteckten Kosten.",
     "pricingItems": [
       {
-        "title": "Starter",
+        "title": "Cloud",
         "features": [
-          "Für kleine Teams und ein Wissensgebiet",
+          "Für Teams, die schnell starten wollen",
           "Einrichtung einmalig: 790 €",
-          "Monatlich: 79 € / Monat",
-          "Bis zu 50 Dokumente",
-          "Bis zu 50 Nutzer:innen"
-        ],
-        "price": "79 €",
-        "priceInformation": "pro Monat · zzgl. MwSt.",
-        "buttonText": "Starter bestellen",
-        "buttonLink": "#"
-      },
-      {
-        "title": "Professional",
-        "features": [
-          "Für wachsende Unternehmen mit mehreren Bereichen",
-          "Einrichtung einmalig: 1.490 €",
           "Monatlich: 149 € / Monat",
-          "Bis zu 250 Dokumente",
-          "Bis zu 250 Nutzer:innen",
-          "Nutzungsauswertung inklusive"
+          "Antworten in wenigen Sekunden",
+          "Bis zu 100 Dokumente",
+          "Unbegrenzte Nutzer:innen",
+          "Getrennte Datenhaltung pro Kunde",
+          "Bei Jahreszahlung: 2 Monate geschenkt"
         ],
         "price": "149 €",
         "priceInformation": "pro Monat · zzgl. MwSt.",
-        "buttonText": "Professional bestellen",
+        "buttonText": "Cloud bestellen",
+        "buttonLink": "#"
+      },
+      {
+        "title": "Privat",
+        "features": [
+          "Für Unternehmen mit strengen Datenanforderungen",
+          "Einrichtung einmalig: 1.900 €",
+          "Monatlich: 349 € / Monat",
+          "Eigene, isolierte Instanz",
+          "Sprachmodell läuft auf Ihrem Server – kein externer KI-Anbieter",
+          "Bis zu 500 Dokumente",
+          "Unbegrenzte Nutzer:innen",
+          "Auf Wunsch auf Ihrer eigenen Hardware",
+          "Nutzungsauswertung inklusive",
+          "Bei Jahreszahlung: 2 Monate geschenkt"
+        ],
+        "price": "349 €",
+        "priceInformation": "pro Monat · zzgl. MwSt.",
+        "buttonText": "Privat bestellen",
         "buttonLink": "#"
       }
     ]

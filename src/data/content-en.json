@@ -90,8 +90,8 @@
     "items": [
       {
         "question": "Where does our data live?",
-        "answer": "That's your call. On the Cloud plan your assistant runs on shared infrastructure, with your documents strictly separated from other customers. On the Private plan you get your own isolated instance — documents and the language model both run on your server, with no external AI provider involved. Either way, your data is never used to train anyone's models.",
-        "imageUrl": "images/faq-source.svg"
+        "answer": "That's your call — there are two options.\nA · Cloud: your assistant runs on shared infrastructure, with your documents strictly separated from other customers.\nB · Private: you get your own isolated instance. Documents and the language model both run on your server, with no external AI provider.\nEither way, your data is never used to train anyone's models.",
+        "imageUrl": "images/cloud-vs-private-en.svg"
       },
       {
         "question": "Does it make things up?",
@@ -116,7 +116,7 @@
     "subtext": "Transparent pricing, three-month minimum, then cancel any month. No hidden costs.",
     "pricingItems": [
       {
-        "title": "Cloud",
+        "title": "A · Cloud",
         "features": [
           "For teams who want to start fast",
           "One-time setup: $790",
@@ -129,11 +129,13 @@
         ],
         "price": "$149",
         "priceInformation": "per month",
-        "buttonText": "Start with Cloud",
-        "buttonLink": "#"
+        "buttonText": "Cloud — book a demo",
+        "buttonLink": "https://calendly.com/YOUR-HANDLE/faq-demo",
+        "secondaryButtonText": "Skip the call — buy directly →",
+        "secondaryButtonLink": "https://buy.stripe.com/YOUR-CLOUD-LINK"
       },
       {
-        "title": "Private",
+        "title": "B · Private",
         "features": [
           "For companies with strict data requirements",
           "One-time setup: $1,900",
@@ -148,8 +150,10 @@
         ],
         "price": "$349",
         "priceInformation": "per month",
-        "buttonText": "Start with Private",
-        "buttonLink": "#"
+        "buttonText": "Private — book a demo",
+        "buttonLink": "https://calendly.com/YOUR-HANDLE/faq-demo",
+        "secondaryButtonText": "Skip the call — buy directly →",
+        "secondaryButtonLink": "https://buy.stripe.com/YOUR-PRIVATE-LINK"
       }
     ]
   },

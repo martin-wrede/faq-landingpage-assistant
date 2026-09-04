@@ -90,8 +90,8 @@
     "items": [
       {
         "question": "Wo liegen unsere Daten?",
-        "answer": "Das entscheiden Sie. In der Cloud-Variante läuft Ihr Assistent auf geteilter Infrastruktur, Ihre Dokumente bleiben strikt von anderen Kunden getrennt. In der Privat-Variante erhalten Sie eine eigene Instanz – Dokumente und Sprachmodell laufen auf Ihrem Server, ohne externen KI-Anbieter. In beiden Fällen: kein Training fremder Modelle.",
-        "imageUrl": "images/faq-source.svg"
+        "answer": "Das entscheiden Sie – es gibt zwei Varianten.\nA · Cloud: Ihr Assistent läuft auf geteilter Infrastruktur. Ihre Dokumente bleiben strikt von anderen Kunden getrennt.\nB · Privat: Sie erhalten eine eigene Instanz. Dokumente und Sprachmodell laufen auf Ihrem Server, ohne externen KI-Anbieter.\nIn beiden Fällen gilt: kein Training fremder Modelle.",
+        "imageUrl": "images/cloud-vs-private.svg"
       },
       {
         "question": "Halluziniert das System?",
@@ -116,7 +116,7 @@
     "subtext": "Transparent kalkuliert. Drei Monate Mindestlaufzeit, danach monatlich kündbar. Keine versteckten Kosten.",
     "pricingItems": [
       {
-        "title": "Cloud",
+        "title": "A · Cloud",
         "features": [
           "Für Teams, die schnell starten wollen",
           "Einrichtung einmalig: 790 €",
@@ -129,11 +129,13 @@
         ],
         "price": "149 €",
         "priceInformation": "pro Monat · zzgl. MwSt.",
-        "buttonText": "Cloud bestellen",
-        "buttonLink": "#"
+        "buttonText": "Cloud – Demo buchen",
+        "buttonLink": "https://calendly.com/YOUR-HANDLE/faq-demo",
+        "secondaryButtonText": "Direkt buchen – ohne Gespräch →",
+        "secondaryButtonLink": "https://buy.stripe.com/YOUR-CLOUD-LINK"
       },
       {
-        "title": "Privat",
+        "title": "B · Privat",
         "features": [
           "Für Unternehmen mit strengen Datenanforderungen",
           "Einrichtung einmalig: 1.900 €",
@@ -148,8 +150,10 @@
         ],
         "price": "349 €",
         "priceInformation": "pro Monat · zzgl. MwSt.",
-        "buttonText": "Privat bestellen",
-        "buttonLink": "#"
+        "buttonText": "Privat – Demo buchen",
+        "buttonLink": "https://calendly.com/YOUR-HANDLE/faq-demo",
+        "secondaryButtonText": "Direkt buchen – ohne Gespräch →",
+        "secondaryButtonLink": "https://buy.stripe.com/YOUR-PRIVATE-LINK"
       }
     ]
   },

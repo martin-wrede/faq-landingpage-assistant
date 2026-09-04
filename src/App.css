@@ -383,6 +383,28 @@ li {
   padding: 30px;
   text-align: left;
   box-shadow: 0 16px 30px rgba(15, 23, 42, 0.15);
+  border: 2px solid transparent;
+}
+
+/* Second tier gets a visible outline to set it apart */
+.pricing-card:nth-child(2) {
+  border-color: #9ca3af;
+}
+
+/* Secondary "buy directly" link under the primary CTA */
+.pricing-secondary-link {
+  display: block;
+  margin-top: 12px;
+  text-align: center;
+  font-size: 0.875rem;
+  color: var(--muted-color);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.pricing-secondary-link:hover {
+  color: var(--dark-color);
+  text-decoration: underline;
 }
 
 .pricing-title {

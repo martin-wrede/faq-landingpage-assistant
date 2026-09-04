@@ -20,6 +20,16 @@ const CTASection = ({ data }) => {
                 <div className="pricing-price">{item.price}</div>
                 <div className="pricing-price-info">{item.priceInformation}</div>
                 <a href={item.buttonLink} className="cta-button pricing-button">{item.buttonText}</a>
+                {item.secondaryButtonText && (
+                  <a
+                    href={item.secondaryButtonLink}
+                    className="pricing-secondary-link"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {item.secondaryButtonText}
+                  </a>
+                )}
               </div>
             ))}
           </div>

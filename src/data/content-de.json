@@ -125,14 +125,14 @@
         "price": "149 €",
         "priceInformation": "pro Monat · zzgl. MwSt.",
         "buttonText": "Cloud – Demo buchen",
-        "buttonLink": "https://calendly.com/YOUR-HANDLE/faq-demo",
+        "buttonLink": "https://calendly.com/framez-mw/60min",
         "secondaryButtonText": "Direkt buchen – ohne Gespräch →",
-        "secondaryButtonLink": "https://buy.stripe.com/YOUR-CLOUD-LINK"
+         "secondaryButtonLink": "https://buy.stripe.com/fZu9AT8Zog1sdit9o94ow00"
       },
       {
         "title": "B · Privat",
         "features": [
-          "Für Unternehmen mit strengen Datenanforderungen",
+          "Für Unternehmen mit streng n Datenanforderungen",
           "Einrichtung einmalig: 1.900 €",
           "Monatlich: 349 € / Monat",
           "Eigene, isolierte Instanz",
@@ -146,9 +146,9 @@
         "price": "349 €",
         "priceInformation": "pro Monat · zzgl. MwSt.",
         "buttonText": "Privat – Demo buchen",
-        "buttonLink": "https://calendly.com/YOUR-HANDLE/faq-demo",
+        "buttonLink": "https://calendly.com/framez-mw/60min",
         "secondaryButtonText": "Direkt buchen – ohne Gespräch →",
-        "secondaryButtonLink": "https://buy.stripe.com/YOUR-PRIVATE-LINK"
+        "secondaryButtonLink": "https://buy.stripe.com/eVq28rfnM8z07Y9asd4ow01"
       }
     ]
   },

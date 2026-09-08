@@ -125,9 +125,9 @@
         "price": "$149",
         "priceInformation": "per month",
         "buttonText": "Cloud — book a demo",
-        "buttonLink": "https://calendly.com/YOUR-HANDLE/faq-demo",
+        "buttonLink": "https://calendly.com/framez-mw/60min",
         "secondaryButtonText": "Skip the call — buy directly →",
-        "secondaryButtonLink": "https://buy.stripe.com/YOUR-CLOUD-LINK"
+        "secondaryButtonLink": "https://buy.stripe.com/4gMcN5ejIbLcdit0RD4ow02"
       },
       {
         "title": "B · Private",
@@ -146,9 +146,9 @@
         "price": "$349",
         "priceInformation": "per month",
         "buttonText": "Private — book a demo",
-        "buttonLink": "https://calendly.com/YOUR-HANDLE/faq-demo",
+        "buttonLink": "https://calendly.com/framez-mw/60min",
         "secondaryButtonText": "Skip the call — buy directly →",
-        "secondaryButtonLink": "https://buy.stripe.com/YOUR-PRIVATE-LINK"
+        "secondaryButtonLink": "https://buy.stripe.com/00w8wPejI8z06U5gQB4ow03"
       }
     ]
   },

@@ -20,22 +20,22 @@
     "imageUrl": "images/hero-hr-team.png"
   },
   "credentials": {
-    "title": "Why teams use it",
+    "title": "What the assistant does for you",
     "logos": [
       {
         "name": "Fewer repeat questions",
-        "url": "images/user-profile-1.png",
-        "quote": "People find answers themselves, around the clock, without HR sitting in the middle of every request."
+        "url": "images/benefit-deflect.svg",
+        "description": "People find answers themselves, around the clock, without HR sitting in the middle of every request."
       },
       {
         "name": "Answers from your sources",
-        "url": "images/user-profile-2.png",
-        "quote": "No invented answers. Every response comes from your policies, handbooks and agreements, and names the document it came from."
+        "url": "images/benefit-sources.svg",
+        "description": "No invented answers. Every response comes from your policies and handbooks, and names the document it came from."
       },
       {
         "name": "You stay in control",
-        "url": "images/user-profile-3.png",
-        "quote": "See what people actually ask, and spot exactly where your documentation has gaps."
+        "url": "images/benefit-control.svg",
+        "description": "See what people actually ask, and spot exactly where your documentation has gaps."
       }
     ]
   },
@@ -145,7 +145,7 @@
         ],
         "price": "$349",
         "priceInformation": "per month",
-        "buttonText": "Private — book a demo",
+        "buttonText": "Private — book a demo", 
         "buttonLink": "https://calendly.com/framez-mw/60min",
         "secondaryButtonText": "Skip the call — buy directly →",
         "secondaryButtonLink": "https://buy.stripe.com/00w8wPejI8z06U5gQB4ow03"
@@ -157,15 +157,15 @@
     "links": [
       {
         "text": "Privacy Policy",
-        "link": "#"
+        "link": "privacy.html"
       },
       {
         "text": "Terms of Service",
-        "link": "#"
+        "link": "terms.html"
       },
       {
         "text": "Contact",
-        "link": "#"
+        "link": "contact.html"
       }
     ]
   }

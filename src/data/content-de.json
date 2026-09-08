@@ -20,22 +20,22 @@
     "imageUrl": "images/hero-hr-team.png"
   },
   "credentials": {
-    "title": "Warum Teams es einsetzen",
+    "title": "Was der Assistent für Sie leistet",
     "logos": [
       {
         "name": "Weniger Routineanfragen",
-        "url": "images/user-profile-1.png",
-        "quote": "Mitarbeitende finden Antworten selbst und rund um die Uhr – ohne HR in der Leitungs-Schleife zu halten."
+        "url": "images/benefit-deflect.svg",
+        "description": "Mitarbeitende finden Antworten selbst, rund um die Uhr – ohne dass HR in jeder Anfrage steckt."
       },
       {
         "name": "Antworten aus Ihren Quellen",
-        "url": "images/user-profile-2.png",
-        "quote": "Keine erfundenen Auskünfte: Jede Antwort basiert auf Ihren Richtlinien, Handbüchern und Vereinbarungen – und nennt das Dokument dazu."
+        "url": "images/benefit-sources.svg",
+        "description": "Keine erfundenen Auskünfte. Jede Antwort stammt aus Ihren Richtlinien und Handbüchern und nennt das Dokument dazu."
       },
       {
         "name": "Sie behalten die Kontrolle",
-        "url": "images/user-profile-3.png",
-        "quote": "Sie sehen, was gefragt wird, und erkennen genau, wo Ihre Dokumentation Lücken hat."
+        "url": "images/benefit-control.svg",
+        "description": "Sie sehen, was gefragt wird, und erkennen genau, wo Ihre Dokumentation Lücken hat."
       }
     ]
   },
@@ -127,7 +127,7 @@
         "buttonText": "Cloud – Demo buchen",
         "buttonLink": "https://calendly.com/framez-mw/60min",
         "secondaryButtonText": "Direkt buchen – ohne Gespräch →",
-         "secondaryButtonLink": "https://buy.stripe.com/fZu9AT8Zog1sdit9o94ow00"
+        "secondaryButtonLink": "https://buy.stripe.com/fZu9AT8Zog1sdit9o94ow00"
       },
       {
         "title": "B · Privat",
@@ -156,16 +156,16 @@
     "copyright": "© 2026 FAQ-Assistent. Alle Rechte vorbehalten.",
     "links": [
       {
-        "text": "Datenschutzrichtlinie",
-        "link": "#"
+        "text": "Datenschutz",
+        "link": "privacy.html"
       },
       {
         "text": "Nutzungsbedingungen",
-        "link": "#"
+        "link": "terms.html"
       },
       {
         "text": "Kontakt",
-        "link": "#"
+        "link": "contact.html"
       }
     ]
   }

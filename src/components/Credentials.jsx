@@ -4,12 +4,21 @@ const Credentials = ({ data }) => {
   return (
     <section className="credentials">
       <div className="container">
-        {/* <h3 className="credentials-title">{data.title}</h3> */}
+        {data.title && <h3 className="credentials-title">{data.title}</h3>}
         <div className="logos-container">
-          {data.logos.map((logo, index) => (
+          {data.logos.map((item, index) => (
             <div key={index} className="credential-item">
-              <img src={import.meta.env.BASE_URL + logo.url} width="100" height="100" alt={logo.name} className="client-logo" />
-              {logo.quote && <p className="credential-quote">"{logo.quote}"</p>}
+              <img
+                src={import.meta.env.BASE_URL + item.url}
+                width="64"
+                height="64"
+                alt=""
+                className="benefit-icon"
+              />
+              <h4 className="credential-name">{item.name}</h4>
+              {(item.description || item.quote) && (
+                <p className="credential-text">{item.description || item.quote}</p>
+              )}
             </div>
           ))}
         </div>

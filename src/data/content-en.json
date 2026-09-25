@@ -85,7 +85,7 @@
     "items": [
       {
         "question": "Where does our data live?",
-        "answer": "That's your call — there are two options.\nA · Cloud: your assistant runs on shared infrastructure, with your documents strictly separated from other customers.\nB · Private: you get your own isolated instance. Documents and the language model both run on your server, with no external AI provider.\nEither way, your data is never used to train anyone's models.",
+        "answer": "That's your call — there are two options.\nA · Cloud: your assistant runs on shared infrastructure, with your documents strictly separated from other customers.\nB · Private: you get your own isolated instance. Documents and the language model both run on your server, with no external AI provider.\nIn this way, your data is never used to train anyone's models.",
         "imageUrl": "images/cloud-vs-private-en.svg"
       },
       {

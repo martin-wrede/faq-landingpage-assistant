@@ -17,7 +17,8 @@
       "text": "Live-Demo ansehen",
       "link": "#faq"
     },
-    "imageUrl": "images/hero-hr-team.png"
+    "imageUrl": "images/hero-hr-team.png",
+    "aiLabel": "KI-generiertes Bild"
   },
   "credentials": {
     "title": "Was der Assistent für Sie leistet",
@@ -71,12 +72,14 @@
       {
         "title": "Ideal für Sie, wenn:",
         "description": "Ihr Unternehmen hat 20–500 Mitarbeitende und HR besteht aus einer Handvoll Menschen. Ihr Wissen liegt verstreut in PDFs und Intranet-Seiten. Dieselben Fragen kommen täglich per E-Mail, Teams oder Zuruf.",
-        "imageUrl": "images/company-illustration-300.jpg"
+        "imageUrl": "images/company-illustration-300.jpg",
+        "aiLabel": "KI-generiertes Bild"
       },
       {
         "title": "Schnelle Einführung",
         "description": "Setup durch uns, produktiv in wenigen Tagen. Kein sechsmonatiges IT-Projekt – sondern ein Tool, das nächste Woche läuft.",
-        "imageUrl": "images/user32.jpg"
+        "imageUrl": "images/user32.jpg",
+        "aiLabel": "KI-generiertes Bild"
       }
     ]
   },

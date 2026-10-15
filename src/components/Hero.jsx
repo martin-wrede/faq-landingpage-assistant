@@ -22,6 +22,7 @@ const Hero = ({ data }) => {
           </div>
         </div>
       </div>
+      {data.aiLabel && <p className="ai-label ai-label--hero">{data.aiLabel}</p>}
     </section>
   );
 };

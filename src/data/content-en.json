@@ -17,7 +17,8 @@
       "text": "See it in action",
       "link": "#faq"
     },
-    "imageUrl": "images/hero-hr-team.png"
+    "imageUrl": "images/hero-hr-team.png",
+    "aiLabel": "AI-generated image"
   },
   "credentials": {
     "title": "What the assistant does for you",
@@ -71,12 +72,14 @@
       {
         "title": "A good fit if:",
         "description": "You have 20–500 employees and HR is a handful of people. Your knowledge is scattered across PDFs and intranet pages. The same questions arrive every day by email, Slack, or someone stopping by your desk.",
-        "imageUrl": "images/company-illustration-300.jpg"
+        "imageUrl": "images/company-illustration-300.jpg",
+        "aiLabel": "AI-generated image"
       },
       {
         "title": "Live in days",
         "description": "We handle the setup. Not a six-month IT project — a tool that runs next week.",
-        "imageUrl": "images/user32.jpg"
+        "imageUrl": "images/user32.jpg",
+        "aiLabel": "AI-generated image"
       }
     ]
   },
@@ -85,7 +88,7 @@
     "items": [
       {
         "question": "Where does our data live?",
-        "answer": "That's your call — there are two options.\nA · Cloud: your assistant runs on shared infrastructure, with your documents strictly separated from other customers.\nB · Private: you get your own isolated instance. Documents and the language model both run on your server, with no external AI provider.\nIn this way, your data is never used to train anyone's models.",
+        "answer": "That's your call — there are two options.\nA · Cloud: Your assistant runs on Cloudflare's secure infrastructure and uses leading AI models for fast, accurate answers. Your documents are kept separate from every other customer's data.\nB · Private: You get your own private server, used only by your company. Your documents and the AI model both run there. Nothing is sent to an outside AI provider.\nEither way, your data is never used to train AI models.",
         "imageUrl": "images/cloud-vs-private-en.svg"
       },
       {
@@ -119,7 +122,7 @@
           "Answers in seconds",
           "Up to 100 documents",
           "Unlimited users",
-          "Separated data storage per customer",
+          "Hosted on Cloudflare, data separated per customer",
           "Pay annually and get 2 months free"
         ],
         "price": "$149",
@@ -135,7 +138,7 @@
           "For companies with strict data requirements",
           "One-time setup: $1,900",
           "Monthly: $349 / month",
-          "Your own isolated instance",
+          "Your own private server, used only by your company",
           "Language model runs on your server — no external AI provider",
           "Up to 500 documents",
           "Unlimited users",

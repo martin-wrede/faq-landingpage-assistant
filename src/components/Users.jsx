@@ -13,6 +13,7 @@ const Users = ({ data }) => {
             </div>
             <div className="feature-image-container">
               <img src={import.meta.env.BASE_URL + user.imageUrl} alt={user.title} className="feature-image" />
+              {user.aiLabel && <p className="ai-label">{user.aiLabel}</p>}
             </div>
           </div>
         ))}
